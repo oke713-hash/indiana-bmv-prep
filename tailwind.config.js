@@ -1,0 +1,1 @@
+export default { darkMode: 'class', content: ['./index.html','./src/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { ink:'#132238', navy:'#17365f', gold:'#f5b942', cream:'#f6f3ed' }, boxShadow:{card:'0 12px 32px rgba(19,34,56,.10)'} } }, plugins: [] };
